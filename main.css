@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* ==================ggsans=================== */
+@font-face {
+    font-family: 'ggsans-Semibold';
+    src: url('./fonts/gg-sans/ggsans-Semibold.ttf'),format("ttf");
+}
+@font-face {
+    font-family: 'ggsans-Normal';
+    src: url('./fonts/gg-sans/ggsans-Normal.ttf'),format("ttf");
+}
+@font-face {
+    font-family: 'ggsans-Bold';
+    src: url('./fonts/gg-sans/ggsans-Bold.ttf'),format("ttf");
+}
+@font-face {
+    font-family: 'ggsans-Medium';
+    src: url('./fonts/gg-sans/ggsans-Medium.ttf'),format("ttf");
+}
+/* ==================gintonord=================== */
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 500;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-500.woff'),format('woff');
+}
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 500;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-500.woff2'), format('woff2');
+}
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 600;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-600.woff'), format('woff');
+}
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 600;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-600.woff2'), format('woff2');
+}
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 700;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-700.woff'), format('woff');
+}
+@font-face {
+    font-family: 'gintoNord';
+    font-weight: 700;
+    src: url('./fonts/Ginto-Nord/Ginto-Nord-700.woff2'), format('woff2');
+}
